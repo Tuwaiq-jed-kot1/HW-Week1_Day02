@@ -10,7 +10,7 @@ The Kotlin assignment has three components:
 ## Part I - short answer questions.
 ---
 ### what is the type of this Variable `var age:int = 19`:
-###
+### Answer: Integer.
 ###
 ### What is the output of this code:
 ###  `var age:int = 19`
@@ -20,10 +20,10 @@ The Kotlin assignment has three components:
     print("you are adult")
     }
                         
-
+    Answer: you are adult.
 
 ## Part II - writing code.
 ---
 ### Write a kotlin program that has two `players` with there `healthPoints` and let the program check if the healthPoint is less than 90 out 100 print `the player's health is fine` and if the healthPoint is less than 50 print `the player's health is awful `. 
 
-
+Answer is in the file: Solution.kt
