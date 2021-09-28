@@ -17,6 +17,3 @@ fun checkHealthStatus(healthPoint: Int, name: String) {
         }
     }
 }
-
-
-,Changed Code
