@@ -10,8 +10,8 @@ The Kotlin assignment has three components:
 ## Part I - short answer questions.
 ---
 ### what is the type of this Variable `var age:int = 19`:
-###
-###
+### Integer
+###Note : that the int should be Int 
 ### What is the output of this code:
 ###  `var age:int = 19`
      if(age < 18 ) {
@@ -19,7 +19,9 @@ The Kotlin assignment has three components:
     }else {
     print("you are adult")
     }
-                        
+       
+you are adult                 
+Note : that the int should be Int
 
 
 ## Part II - writing code.
