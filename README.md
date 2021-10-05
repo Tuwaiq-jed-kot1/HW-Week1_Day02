@@ -5,4 +5,4 @@
 - conditionals
 
 ## Getting strated dd
-Open the [assignment.md](assignment.md) file to get started.
+Open the [assignment.md](solution.kt) file to get started.
