@@ -1,3 +1,4 @@
 fun main(){
- print("I love Kotlin!!!!")
+ var f = "testtttt"
+ print(f)
 }
