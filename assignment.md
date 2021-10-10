@@ -10,7 +10,7 @@ The Kotlin assignment has three components:
 ## Part I - short answer questions.
 ---
 ### Question 1 - what is the type of this Variable `var age:int = 19`:
->Answe 1: 
+>Answe 1: fgfhfg
 ### Question 2 - What is the output of this code:
 ###  `var age:int = 19`
      if(age < 18 ) {
