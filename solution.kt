@@ -1,8 +1,8 @@
 fun main() {
     val playerOne= "Ahmad"
-    val playerOneHealth:Int=99
+    val playerOneHealth= 99
     val playerTwo= "Khalid"
-    val playerTwoHealth:Int=33
+    val playerTwoHealth= 33
     checkHealth(playerOne, playerOneHealth)
     checkHealth(playerTwo, playerTwoHealth)
 }
